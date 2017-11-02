@@ -1,0 +1,28 @@
+{
+  "name": "liri-by-wfk",
+  "version": "1.0.0",
+  "description": "This is an application which takes responses from the command line",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfkinnc/LIRI-BY-WFK.git"
+  },
+  "keywords": [
+    "LIRI"
+  ],
+  "author": "W Kassebaum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wfkinnc/LIRI-BY-WFK/issues"
+  },
+  "homepage": "https://github.com/wfkinnc/LIRI-BY-WFK#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
