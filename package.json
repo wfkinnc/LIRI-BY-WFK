@@ -1,7 +1,7 @@
 {
   "name": "liri-by-wfk",
   "version": "1.0.0",
-  "description": "This is an application which takes responses from the command line",
+  "description": "This is an application which takes responses from the command line and prints out responses. For movies and songs, a second prompt is made for song or movie.",
   "main": "liri.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

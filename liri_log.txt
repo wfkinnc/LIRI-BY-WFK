@@ -1,0 +1,72 @@
+Tweet: Here is a tweet promoting my Average Guy's Guide to be Single blog (https://t.co/tchbCQpKkX).
+Created on: Tue Oct 31 00:03:25 +0000 2017
+Tweet: Hello World..this my first Tweet.
+Created on: Mon Oct 30 22:05:46 +0000 2017
+Spotify URL: https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq
+Song Name: All The Time
+Album: Beach House 3
+Song Name: Love U Better (feat. Lil Wayne & The-Dream)
+Artist: Ty Dolla $ign
+Song Name: Droptop in the Rain (feat. Tory Lanez)
+Artist: Ty Dolla $ign
+Album: Beach House 3
+Artist: Ty Dolla $ign
+Spotify URL: https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq
+Song Name: Sign of the Times
+Spotify URL: https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq
+Spotify URL: https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3
+Artist: Harry Styles
+Album: Beach House 3
+Album: Sign of the Times
+Album: Love U Better (feat. Lil Wayne & The-Dream)
+Song Name: Love U Better (feat. Lil Wayne & The-Dream)
+Spotify URL: https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq
+Artist: Ty Dolla $ign
+Artist: Grateful Dead
+Spotify URL: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+Song Name: Ripple
+Song Name: Ripple - 2001 Remastered Version
+Album: The Very Best Of Grateful Dead
+Spotify URL: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+Artist: Grateful Dead
+Album: American Beauty
+Artist: Slughorn
+Spotify URL: https://api.spotify.com/v1/artists/1djmffM9i9Hyf3NUdMXe9q
+Song Name: Ripple
+Song Name: Ripple - Remastered
+Artist: Liquid Stranger
+Album: Long Strange Trip (Highlights From The Motion Picture Soundtrack)
+Artist: Grateful Dead
+Song Name: Ripple (VIP)
+Spotify URL: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+Spotify URL: https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k
+Album: Mechanoid Meltdown
+Album: Ripple
+Movie Title: Blazing Saddles
+Year the movie came out: 1974
+Rotten Tomatoes Rating of the movie: 90%
+Country where the movie was produced: USA
+Plot of the movie: In order to ruin a western town, a corrupt politician appoints a black sheriff, who promptly becomes his most formidable adversary.
+Language of the movie: English, Yiddish, German
+IMDB Rating of the movie: 7.8/10
+Actors in the movie: Cleavon Little, Gene Wilder, Slim Pickens, Harvey Korman
+Spotify URL: https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Song Name: I Want It That Way
+Album: The Essential Backstreet Boys
+Artist: Backstreet Boys
+Spotify URL: https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Spotify URL: https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7
+Album: Covers Part IV
+Song Name: I Want It That Way
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Spotify URL: https://api.spotify.com/v1/artists/7kwEvDE8e7EBGKh5bLczqQ
+Artist: Glee Cast
+Spotify URL: https://api.spotify.com/v1/artists/0SCbttzoZTnLFebDYmAWCm
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Album: Millennium
+Artist: Anthem Lights
